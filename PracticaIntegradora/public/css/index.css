@@ -1,0 +1,17 @@
+footer {
+    flex-shrink: 0;
+    box-sizing: border-box;
+}
+.footer-container {
+    padding: 15px 30px;
+    border-bottom: 1px solid #dadce0;
+    font-size: 15px;
+    color: rgba(0,0, 0, .54);
+    text-align: center;
+}
+div.uk-card-body{
+    padding-bottom: 25px;
+}
+#tarjeta{
+    height: 500px;
+}
